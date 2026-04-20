@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="../../../../../source/repos/Exercicios/ExercicioExtraClasses/ExercicioExtraClasses.csproj" Id="2a609e1c-524c-47a8-a4a0-17ba58ef9f34" />
+  <Project Path="../../../../../source/repos/Exercicios/Exercicios/Lista1.csproj" />
+  <Project Path="../../../../../source/repos/Exercicios/ExerciciosFixacao_Classes/ExerciciosFixacao_Classes.csproj" Id="0b7219c2-0a73-43d1-99c7-70fa35cb8da9" />
+  <Project Path="../../../../../source/repos/Exercicios/Lista2/Lista2.csproj" Id="b624b145-f466-483d-ba8e-f1bd81739161" />
+  <Project Path="../../../../../source/repos/Exercicios/Lista3_While/Lista3_While.csproj" Id="a9ba35cf-7bc3-4262-bd0b-0b43bdb8f5b3" />
+  <Project Path="../../../../../source/repos/Exercicios/Lista4_For/Lista4_For.csproj" Id="89ab6e96-de41-49e3-a469-45484ee4af15" />
+  <Project Path="../../../../../source/repos/Exercicios/Lista5_Classes/Lista5_Classes.csproj" Id="af6f812f-ea0e-4bd8-bfec-460579c8f420" />
+  <Project Path="FixacaoConstrutores/FixacaoConstrutores.csproj" Id="5b3b8e2d-58a4-4c9c-8eb5-f1d22bda294f" />
+</Solution>

@@ -1,0 +1,14 @@
+C:\Users\Cliente\source\repos\Exercicios\ExercicioExtraClasses\bin\Debug\net10.0\ExercicioExtraClasses.exe
+C:\Users\Cliente\source\repos\Exercicios\ExercicioExtraClasses\bin\Debug\net10.0\ExercicioExtraClasses.deps.json
+C:\Users\Cliente\source\repos\Exercicios\ExercicioExtraClasses\bin\Debug\net10.0\ExercicioExtraClasses.runtimeconfig.json
+C:\Users\Cliente\source\repos\Exercicios\ExercicioExtraClasses\bin\Debug\net10.0\ExercicioExtraClasses.dll
+C:\Users\Cliente\source\repos\Exercicios\ExercicioExtraClasses\bin\Debug\net10.0\ExercicioExtraClasses.pdb
+C:\Users\Cliente\source\repos\Exercicios\ExercicioExtraClasses\obj\Debug\net10.0\ExercicioExtraClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\source\repos\Exercicios\ExercicioExtraClasses\obj\Debug\net10.0\ExercicioExtraClasses.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\Exercicios\ExercicioExtraClasses\obj\Debug\net10.0\ExercicioExtraClasses.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\Exercicios\ExercicioExtraClasses\obj\Debug\net10.0\ExercicioExtraClasses.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\Exercicios\ExercicioExtraClasses\obj\Debug\net10.0\ExercicioExtraClasses.dll
+C:\Users\Cliente\source\repos\Exercicios\ExercicioExtraClasses\obj\Debug\net10.0\refint\ExercicioExtraClasses.dll
+C:\Users\Cliente\source\repos\Exercicios\ExercicioExtraClasses\obj\Debug\net10.0\ExercicioExtraClasses.pdb
+C:\Users\Cliente\source\repos\Exercicios\ExercicioExtraClasses\obj\Debug\net10.0\ExercicioExtraClasses.genruntimeconfig.cache
+C:\Users\Cliente\source\repos\Exercicios\ExercicioExtraClasses\obj\Debug\net10.0\ref\ExercicioExtraClasses.dll
