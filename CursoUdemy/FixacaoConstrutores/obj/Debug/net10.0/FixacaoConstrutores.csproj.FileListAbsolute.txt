@@ -1,0 +1,14 @@
+C:\Users\Cliente\source\repos\Exercicios\FixacaoConstrutores\bin\Debug\net10.0\FixacaoConstrutores.exe
+C:\Users\Cliente\source\repos\Exercicios\FixacaoConstrutores\bin\Debug\net10.0\FixacaoConstrutores.deps.json
+C:\Users\Cliente\source\repos\Exercicios\FixacaoConstrutores\bin\Debug\net10.0\FixacaoConstrutores.runtimeconfig.json
+C:\Users\Cliente\source\repos\Exercicios\FixacaoConstrutores\bin\Debug\net10.0\FixacaoConstrutores.dll
+C:\Users\Cliente\source\repos\Exercicios\FixacaoConstrutores\bin\Debug\net10.0\FixacaoConstrutores.pdb
+C:\Users\Cliente\source\repos\Exercicios\FixacaoConstrutores\obj\Debug\net10.0\FixacaoConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\source\repos\Exercicios\FixacaoConstrutores\obj\Debug\net10.0\FixacaoConstrutores.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\Exercicios\FixacaoConstrutores\obj\Debug\net10.0\FixacaoConstrutores.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\Exercicios\FixacaoConstrutores\obj\Debug\net10.0\FixacaoConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\Exercicios\FixacaoConstrutores\obj\Debug\net10.0\FixacaoConstrutores.dll
+C:\Users\Cliente\source\repos\Exercicios\FixacaoConstrutores\obj\Debug\net10.0\refint\FixacaoConstrutores.dll
+C:\Users\Cliente\source\repos\Exercicios\FixacaoConstrutores\obj\Debug\net10.0\FixacaoConstrutores.pdb
+C:\Users\Cliente\source\repos\Exercicios\FixacaoConstrutores\obj\Debug\net10.0\FixacaoConstrutores.genruntimeconfig.cache
+C:\Users\Cliente\source\repos\Exercicios\FixacaoConstrutores\obj\Debug\net10.0\ref\FixacaoConstrutores.dll

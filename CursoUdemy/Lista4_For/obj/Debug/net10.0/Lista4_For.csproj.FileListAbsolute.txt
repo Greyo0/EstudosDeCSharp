@@ -1,0 +1,14 @@
+C:\Users\Cliente\source\repos\Exercicios\Lista4_For\bin\Debug\net10.0\Lista4_For.exe
+C:\Users\Cliente\source\repos\Exercicios\Lista4_For\bin\Debug\net10.0\Lista4_For.deps.json
+C:\Users\Cliente\source\repos\Exercicios\Lista4_For\bin\Debug\net10.0\Lista4_For.runtimeconfig.json
+C:\Users\Cliente\source\repos\Exercicios\Lista4_For\bin\Debug\net10.0\Lista4_For.dll
+C:\Users\Cliente\source\repos\Exercicios\Lista4_For\bin\Debug\net10.0\Lista4_For.pdb
+C:\Users\Cliente\source\repos\Exercicios\Lista4_For\obj\Debug\net10.0\Lista4_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\source\repos\Exercicios\Lista4_For\obj\Debug\net10.0\Lista4_For.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\Exercicios\Lista4_For\obj\Debug\net10.0\Lista4_For.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\Exercicios\Lista4_For\obj\Debug\net10.0\Lista4_For.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\Exercicios\Lista4_For\obj\Debug\net10.0\Lista4_For.dll
+C:\Users\Cliente\source\repos\Exercicios\Lista4_For\obj\Debug\net10.0\refint\Lista4_For.dll
+C:\Users\Cliente\source\repos\Exercicios\Lista4_For\obj\Debug\net10.0\Lista4_For.pdb
+C:\Users\Cliente\source\repos\Exercicios\Lista4_For\obj\Debug\net10.0\Lista4_For.genruntimeconfig.cache
+C:\Users\Cliente\source\repos\Exercicios\Lista4_For\obj\Debug\net10.0\ref\Lista4_For.dll

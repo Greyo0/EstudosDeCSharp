@@ -1,0 +1,14 @@
+C:\Users\Cliente\source\repos\Exercicios\Lista2\bin\Debug\net10.0\Lista2.exe
+C:\Users\Cliente\source\repos\Exercicios\Lista2\bin\Debug\net10.0\Lista2.deps.json
+C:\Users\Cliente\source\repos\Exercicios\Lista2\bin\Debug\net10.0\Lista2.runtimeconfig.json
+C:\Users\Cliente\source\repos\Exercicios\Lista2\bin\Debug\net10.0\Lista2.dll
+C:\Users\Cliente\source\repos\Exercicios\Lista2\bin\Debug\net10.0\Lista2.pdb
+C:\Users\Cliente\source\repos\Exercicios\Lista2\obj\Debug\net10.0\Lista2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\source\repos\Exercicios\Lista2\obj\Debug\net10.0\Lista2.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\Exercicios\Lista2\obj\Debug\net10.0\Lista2.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\Exercicios\Lista2\obj\Debug\net10.0\Lista2.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\Exercicios\Lista2\obj\Debug\net10.0\Lista2.dll
+C:\Users\Cliente\source\repos\Exercicios\Lista2\obj\Debug\net10.0\refint\Lista2.dll
+C:\Users\Cliente\source\repos\Exercicios\Lista2\obj\Debug\net10.0\Lista2.pdb
+C:\Users\Cliente\source\repos\Exercicios\Lista2\obj\Debug\net10.0\Lista2.genruntimeconfig.cache
+C:\Users\Cliente\source\repos\Exercicios\Lista2\obj\Debug\net10.0\ref\Lista2.dll

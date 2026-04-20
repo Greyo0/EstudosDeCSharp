@@ -1,0 +1,14 @@
+C:\Users\Cliente\source\repos\Exercicios\ExerciciosFixacao_Classes\bin\Debug\net10.0\ExerciciosFixacao_Classes.exe
+C:\Users\Cliente\source\repos\Exercicios\ExerciciosFixacao_Classes\bin\Debug\net10.0\ExerciciosFixacao_Classes.deps.json
+C:\Users\Cliente\source\repos\Exercicios\ExerciciosFixacao_Classes\bin\Debug\net10.0\ExerciciosFixacao_Classes.runtimeconfig.json
+C:\Users\Cliente\source\repos\Exercicios\ExerciciosFixacao_Classes\bin\Debug\net10.0\ExerciciosFixacao_Classes.dll
+C:\Users\Cliente\source\repos\Exercicios\ExerciciosFixacao_Classes\bin\Debug\net10.0\ExerciciosFixacao_Classes.pdb
+C:\Users\Cliente\source\repos\Exercicios\ExerciciosFixacao_Classes\obj\Debug\net10.0\ExerciciosFixacao_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\source\repos\Exercicios\ExerciciosFixacao_Classes\obj\Debug\net10.0\ExerciciosFixacao_Classes.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\Exercicios\ExerciciosFixacao_Classes\obj\Debug\net10.0\ExerciciosFixacao_Classes.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\Exercicios\ExerciciosFixacao_Classes\obj\Debug\net10.0\ExerciciosFixacao_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\Exercicios\ExerciciosFixacao_Classes\obj\Debug\net10.0\ExerciciosFixacao_Classes.dll
+C:\Users\Cliente\source\repos\Exercicios\ExerciciosFixacao_Classes\obj\Debug\net10.0\refint\ExerciciosFixacao_Classes.dll
+C:\Users\Cliente\source\repos\Exercicios\ExerciciosFixacao_Classes\obj\Debug\net10.0\ExerciciosFixacao_Classes.pdb
+C:\Users\Cliente\source\repos\Exercicios\ExerciciosFixacao_Classes\obj\Debug\net10.0\ExerciciosFixacao_Classes.genruntimeconfig.cache
+C:\Users\Cliente\source\repos\Exercicios\ExerciciosFixacao_Classes\obj\Debug\net10.0\ref\ExerciciosFixacao_Classes.dll
