@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2185E348-3849-4BE4-A24A-18E45FC7A127}|CursoUdemy\\CursoUdemy.csproj|c:\\users\\arthur.medeiros\\source\\repos\\estudoseexercicios\\cursoudemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2185E348-3849-4BE4-A24A-18E45FC7A127}|CursoUdemy\\CursoUdemy.csproj|solutionrelative:cursoudemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF12E050-1D3C-4DCE-A9CC-04702A548814}|Beecrowd\\Beecrowd.csproj|c:\\users\\arthur.medeiros\\source\\repos\\estudoseexercicios\\beecrowd\\iniciante\\1131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF12E050-1D3C-4DCE-A9CC-04702A548814}|Beecrowd\\Beecrowd.csproj|solutionrelative:beecrowd\\iniciante\\1131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2185E348-3849-4BE4-A24A-18E45FC7A127}|CursoUdemy\\CursoUdemy.csproj|c:\\users\\arthur.medeiros\\source\\repos\\estudoseexercicios\\cursoudemy\\estudantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2185E348-3849-4BE4-A24A-18E45FC7A127}|CursoUdemy\\CursoUdemy.csproj|solutionrelative:cursoudemy\\estudantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF12E050-1D3C-4DCE-A9CC-04702A548814}|Beecrowd\\Beecrowd.csproj|c:\\users\\arthur.medeiros\\source\\repos\\estudoseexercicios\\beecrowd\\iniciante\\1118.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF12E050-1D3C-4DCE-A9CC-04702A548814}|Beecrowd\\Beecrowd.csproj|solutionrelative:beecrowd\\iniciante\\1118.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF12E050-1D3C-4DCE-A9CC-04702A548814}|Beecrowd\\Beecrowd.csproj|c:\\users\\arthur.medeiros\\source\\repos\\estudoseexercicios\\beecrowd\\beecrowd.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CF12E050-1D3C-4DCE-A9CC-04702A548814}|Beecrowd\\Beecrowd.csproj|solutionrelative:beecrowd\\beecrowd.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2185E348-3849-4BE4-A24A-18E45FC7A127}|CursoUdemy\\CursoUdemy.csproj|c:\\users\\arthur.medeiros\\source\\repos\\estudoseexercicios\\cursoudemy\\cursoudemy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2185E348-3849-4BE4-A24A-18E45FC7A127}|CursoUdemy\\CursoUdemy.csproj|solutionrelative:cursoudemy\\cursoudemy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF12E050-1D3C-4DCE-A9CC-04702A548814}|Beecrowd\\Beecrowd.csproj|c:\\users\\arthur.medeiros\\source\\repos\\estudoseexercicios\\beecrowd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF12E050-1D3C-4DCE-A9CC-04702A548814}|Beecrowd\\Beecrowd.csproj|solutionrelative:beecrowd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\CursoUdemy\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CursoUdemy\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\CursoUdemy\\Estudantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CursoUdemy\\Estudantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,20 +42,58 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1118.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\Beecrowd\\Iniciante\\1118.cs",
+              "RelativeDocumentMoniker": "Beecrowd\\Iniciante\\1118.cs",
+              "ToolTip": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\Beecrowd\\Iniciante\\1118.cs",
+              "RelativeToolTip": "Beecrowd\\Iniciante\\1118.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T18:55:45.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CursoUdemy",
+              "Title": "Beecrowd",
+              "DocumentMoniker": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\Beecrowd\\Beecrowd.csproj",
+              "RelativeDocumentMoniker": "Beecrowd\\Beecrowd.csproj",
+              "ToolTip": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\Beecrowd\\Beecrowd.csproj",
+              "RelativeToolTip": "Beecrowd\\Beecrowd.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-22T18:57:28.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1131.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\Beecrowd\\Iniciante\\1131.cs",
+              "RelativeDocumentMoniker": "Beecrowd\\Iniciante\\1131.cs",
+              "ToolTip": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\Beecrowd\\Iniciante\\1131.cs",
+              "RelativeToolTip": "Beecrowd\\Iniciante\\1131.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T18:54:30.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CursoUdemy.csproj",
               "DocumentMoniker": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\CursoUdemy\\CursoUdemy.csproj",
               "RelativeDocumentMoniker": "CursoUdemy\\CursoUdemy.csproj",
               "ToolTip": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\CursoUdemy\\CursoUdemy.csproj",
               "RelativeToolTip": "CursoUdemy\\CursoUdemy.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-15T15:50:33.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Estudantes.cs",
               "DocumentMoniker": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\CursoUdemy\\Estudantes.cs",
               "RelativeDocumentMoniker": "CursoUdemy\\Estudantes.cs",
@@ -55,34 +101,18 @@
               "RelativeToolTip": "CursoUdemy\\Estudantes.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T14:13:09.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T14:13:09.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\CursoUdemy\\Program.cs",
               "RelativeDocumentMoniker": "CursoUdemy\\Program.cs",
               "ToolTip": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\CursoUdemy\\Program.cs",
               "RelativeToolTip": "CursoUdemy\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T13:58:04.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\Beecrowd\\Program.cs",
-              "RelativeDocumentMoniker": "Beecrowd\\Program.cs",
-              "ToolTip": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\Beecrowd\\Program.cs",
-              "RelativeToolTip": "Beecrowd\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T13:57:49.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T13:58:04.897Z"
             }
           ]
         }

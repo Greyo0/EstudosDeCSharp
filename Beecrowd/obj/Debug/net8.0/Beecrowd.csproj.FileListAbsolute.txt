@@ -12,3 +12,4 @@ C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\obj\Debug\net8
 C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\obj\Debug\net8.0\Beecrowd.pdb
 C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\obj\Debug\net8.0\Beecrowd.genruntimeconfig.cache
 C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\obj\Debug\net8.0\ref\Beecrowd.dll
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\obj\Debug\net8.0\Beecrowd.sourcelink.json
