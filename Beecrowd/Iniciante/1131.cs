@@ -1,4 +1,4 @@
-using System;
+/* using System;
 
 namespace Beecrowd {
     public class Program {
@@ -60,4 +60,4 @@ namespace Beecrowd {
         }
 
     }
-}
+} */

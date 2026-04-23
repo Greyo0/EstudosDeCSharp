@@ -1,0 +1,5 @@
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\CursoUdemy\obj\Debug\net8.0\CursoUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\CursoUdemy\obj\Debug\net8.0\CursoUdemy.AssemblyInfoInputs.cache
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\CursoUdemy\obj\Debug\net8.0\CursoUdemy.AssemblyInfo.cs
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\CursoUdemy\obj\Debug\net8.0\CursoUdemy.csproj.CoreCompileInputs.cache
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\CursoUdemy\obj\Debug\net8.0\CursoUdemy.sourcelink.json
