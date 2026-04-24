@@ -1,4 +1,4 @@
-using System;
+/* using System;
 
 public class Program
 {
@@ -9,8 +9,23 @@ public class Program
 
         int x = int.Parse(entrada[0]);
         int y = int.Parse(entrada[1]);
+        int i = 1;
+        int j;
 
-        for (i
+        do
+        {
+            for (j = 1; j<=x; j++)
+            {
+                if (j != x){
+                    System.Console.Write($"{i} ");
+                } else
+                {
+                    Console.Write(i);
+                }
+                i++;
+            }
+            Console.WriteLine();
+        } while(i < y);
     }
 
-}
+} */

@@ -17,9 +17,10 @@ public class Program
 
         for (int i = 0; i<n; i++)
         {
+            string[] entrada = Console.ReadLine().Split(' ');
             for (int j = 0; j<n; j++)
             {
-                matriz[i][j] = int.Parse(Console.ReadLine());
+                matriz[i,j] = int.Parse(entrada[j]);
             }
         }
 
@@ -27,14 +28,14 @@ public class Program
 
         for (int i = 0; i<n; i++)
         {
-            Console.Write(matriz[i][i] + " ");
+            Console.Write(matriz[i,i] + " ");
         }
 
         for (int i = 0; i<n; i++)
         {
             for (int j = 0; j<n; j++)
             {
-                if (matriz[i][j] < 0)
+                if (matriz[i,j] < 0)
                 {
                     negativos++;
                 }
