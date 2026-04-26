@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "myRG4mj7Nzo=",
+  "dgSpecHash": "HalGak9d9JY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\CursoUdemy\\CursoUdemy.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\CursoUdemy\\CursoUdemy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
