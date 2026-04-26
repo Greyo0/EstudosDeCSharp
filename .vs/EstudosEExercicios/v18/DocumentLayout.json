@@ -3,122 +3,122 @@
   "WorkspaceRootPath": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2E4EBE0-7E1E-4BF8-B3B4-C8481136E574}|Lista3_While\\Lista3_While.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\lista3_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2E4EBE0-7E1E-4BF8-B3B4-C8481136E574}|Lista3_While\\Lista3_While.csproj|solutionrelative:lista3_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{950B28F3-3BD7-4116-81DD-F19CC1DAE867}|Lista4_For\\Lista4_For.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\lista4_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{950B28F3-3BD7-4116-81DD-F19CC1DAE867}|Lista4_For\\Lista4_For.csproj|solutionrelative:lista4_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29730C88-351A-4EA6-8724-B5ED5F153432}|Lista5_Classes\\Lista5_Classes.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\lista5_classes\\trabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29730C88-351A-4EA6-8724-B5ED5F153432}|Lista5_Classes\\Lista5_Classes.csproj|solutionrelative:lista5_classes\\trabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29730C88-351A-4EA6-8724-B5ED5F153432}|Lista5_Classes\\Lista5_Classes.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\lista5_classes\\pessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29730C88-351A-4EA6-8724-B5ED5F153432}|Lista5_Classes\\Lista5_Classes.csproj|solutionrelative:lista5_classes\\pessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29730C88-351A-4EA6-8724-B5ED5F153432}|Lista5_Classes\\Lista5_Classes.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\lista5_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29730C88-351A-4EA6-8724-B5ED5F153432}|Lista5_Classes\\Lista5_Classes.csproj|solutionrelative:lista5_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6713C172-667B-4C9D-BF8A-1C56FD7868DB}|Lista2\\Lista2.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\lista2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6713C172-667B-4C9D-BF8A-1C56FD7868DB}|Lista2\\Lista2.csproj|solutionrelative:lista2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4586908-AC70-4A54-93FD-169DD3CE17F4}|FixacaoVetores\\FixacaoVetores.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\fixacaovetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4586908-AC70-4A54-93FD-169DD3CE17F4}|FixacaoVetores\\FixacaoVetores.csproj|solutionrelative:fixacaovetores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4586908-AC70-4A54-93FD-169DD3CE17F4}|FixacaoVetores\\FixacaoVetores.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\fixacaovetores\\estudantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4586908-AC70-4A54-93FD-169DD3CE17F4}|FixacaoVetores\\FixacaoVetores.csproj|solutionrelative:fixacaovetores\\estudantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0DE7AA9-5CF9-4B4B-A9EE-624EE646C707}|FixacaoConstrutores\\FixacaoConstrutores.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\fixacaoconstrutores\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0DE7AA9-5CF9-4B4B-A9EE-624EE646C707}|FixacaoConstrutores\\FixacaoConstrutores.csproj|solutionrelative:fixacaoconstrutores\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0DE7AA9-5CF9-4B4B-A9EE-624EE646C707}|FixacaoConstrutores\\FixacaoConstrutores.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\fixacaoconstrutores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0DE7AA9-5CF9-4B4B-A9EE-624EE646C707}|FixacaoConstrutores\\FixacaoConstrutores.csproj|solutionrelative:fixacaoconstrutores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A58D1FE-7807-4DDC-A5EA-942632B79333}|FixacaoMatrizes\\FixacaoMatrizes.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\fixacaomatrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A58D1FE-7807-4DDC-A5EA-942632B79333}|FixacaoMatrizes\\FixacaoMatrizes.csproj|solutionrelative:fixacaomatrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA37413-6D1E-4966-99C9-E7AFAFF44094}|ExerciciosFixacaoClasses\\ExerciciosFixacaoClasses.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\exerciciosfixacaoclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDA37413-6D1E-4966-99C9-E7AFAFF44094}|ExerciciosFixacaoClasses\\ExerciciosFixacaoClasses.csproj|solutionrelative:exerciciosfixacaoclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA37413-6D1E-4966-99C9-E7AFAFF44094}|ExerciciosFixacaoClasses\\ExerciciosFixacaoClasses.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\exerciciosfixacaoclasses\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDA37413-6D1E-4966-99C9-E7AFAFF44094}|ExerciciosFixacaoClasses\\ExerciciosFixacaoClasses.csproj|solutionrelative:exerciciosfixacaoclasses\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA37413-6D1E-4966-99C9-E7AFAFF44094}|ExerciciosFixacaoClasses\\ExerciciosFixacaoClasses.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\exerciciosfixacaoclasses\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDA37413-6D1E-4966-99C9-E7AFAFF44094}|ExerciciosFixacaoClasses\\ExerciciosFixacaoClasses.csproj|solutionrelative:exerciciosfixacaoclasses\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA37413-6D1E-4966-99C9-E7AFAFF44094}|ExerciciosFixacaoClasses\\ExerciciosFixacaoClasses.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\exerciciosfixacaoclasses\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDA37413-6D1E-4966-99C9-E7AFAFF44094}|ExerciciosFixacaoClasses\\ExerciciosFixacaoClasses.csproj|solutionrelative:exerciciosfixacaoclasses\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E96F75C-CA23-45A1-8848-05451A7E6A0A}|ExerciciosExtrasClasses\\ExerciciosExtrasClasses.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\exerciciosextrasclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E96F75C-CA23-45A1-8848-05451A7E6A0A}|ExerciciosExtrasClasses\\ExerciciosExtrasClasses.csproj|solutionrelative:exerciciosextrasclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E96F75C-CA23-45A1-8848-05451A7E6A0A}|ExerciciosExtrasClasses\\ExerciciosExtrasClasses.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\exerciciosextrasclasses\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E96F75C-CA23-45A1-8848-05451A7E6A0A}|ExerciciosExtrasClasses\\ExerciciosExtrasClasses.csproj|solutionrelative:exerciciosextrasclasses\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63BF5B48-65F4-4926-83A6-88B5E8E7180E}|I1149\\I1149.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\i1149\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63BF5B48-65F4-4926-83A6-88B5E8E7180E}|I1149\\I1149.csproj|solutionrelative:i1149\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{212EF1BD-7987-43A9-AD2D-3D6D4786174C}|I1146\\I1146.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\i1146\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{212EF1BD-7987-43A9-AD2D-3D6D4786174C}|I1146\\I1146.csproj|solutionrelative:i1146\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1700F6F7-ECB5-4F23-BACF-8DEE33B279C5}|I1145\\I1145.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\i1145\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1700F6F7-ECB5-4F23-BACF-8DEE33B279C5}|I1145\\I1145.csproj|solutionrelative:i1145\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F4377E2-919F-409A-A8AC-E2B3E8A1102A}|I1144\\I1144.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\i1144\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F4377E2-919F-409A-A8AC-E2B3E8A1102A}|I1144\\I1144.csproj|solutionrelative:i1144\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{023466BD-D122-4502-AEE7-85D616EF6BA6}|I1143\\I1143.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\i1143\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{023466BD-D122-4502-AEE7-85D616EF6BA6}|I1143\\I1143.csproj|solutionrelative:i1143\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A12F23B-58C3-4C9B-83E4-7725BC2E340F}|I1142\\I1142.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\i1142\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A12F23B-58C3-4C9B-83E4-7725BC2E340F}|I1142\\I1142.csproj|solutionrelative:i1142\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5534E251-41C7-4747-9EF5-7AD6B96207BE}|I1134\\I1134.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\i1134\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5534E251-41C7-4747-9EF5-7AD6B96207BE}|I1134\\I1134.csproj|solutionrelative:i1134\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F399C17E-EC56-456B-8EC9-BFC521809FA0}|I1133\\I1133.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\i1133\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F399C17E-EC56-456B-8EC9-BFC521809FA0}|I1133\\I1133.csproj|solutionrelative:i1133\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{961148D5-80CC-41A6-A567-A6B356C8B744}|I1132\\I1132.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\i1132\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{961148D5-80CC-41A6-A567-A6B356C8B744}|I1132\\I1132.csproj|solutionrelative:i1132\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19C327AB-E656-4948-B14B-11E76930B13A}|I1131\\I1131.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\i1131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19C327AB-E656-4948-B14B-11E76930B13A}|I1131\\I1131.csproj|solutionrelative:i1131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B28633E7-4E70-4237-BD03-685777D1820A}|I1118\\I1118.csproj|c:\\users\\cliente\\source\\repos\\exercicios\\i1118\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B28633E7-4E70-4237-BD03-685777D1820A}|I1118\\I1118.csproj|solutionrelative:i1118\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista3_While\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lista3_While\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\CursoUdemy\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\CursoUdemy\\Estudantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista5_Classes\\Trabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lista5_Classes\\Trabalhador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista5_Classes\\Pessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lista5_Classes\\Pessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista5_Classes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lista5_Classes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista4_For\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lista4_For\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lista2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\FixacaoVetores\\Estudantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FixacaoVetores\\Estudantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\FixacaoVetores\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FixacaoVetores\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\FixacaoMatrizes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FixacaoMatrizes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\FixacaoConstrutores\\Banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FixacaoConstrutores\\Banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\FixacaoConstrutores\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FixacaoConstrutores\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\ExerciciosFixacaoClasses\\Funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExerciciosFixacaoClasses\\Funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\ExerciciosFixacaoClasses\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExerciciosFixacaoClasses\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\ExerciciosFixacaoClasses\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExerciciosFixacaoClasses\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\ExerciciosFixacaoClasses\\Retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExerciciosFixacaoClasses\\Retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\ExerciciosExtrasClasses\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExerciciosExtrasClasses\\Produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\ExerciciosExtrasClasses\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExerciciosExtrasClasses\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1149\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:I1149\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1144\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:I1144\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1145\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:I1145\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1146\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:I1146\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1143\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:I1143\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1142\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:I1142\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1134\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:I1134\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1133\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:I1133\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1132\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:I1132\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1131\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:I1131\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1118\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:I1118\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -136,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Trabalhador.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista5_Classes\\Trabalhador.cs",
               "RelativeDocumentMoniker": "Lista5_Classes\\Trabalhador.cs",
@@ -148,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Pessoas.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista5_Classes\\Pessoas.cs",
               "RelativeDocumentMoniker": "Lista5_Classes\\Pessoas.cs",
@@ -160,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista5_Classes\\Program.cs",
               "RelativeDocumentMoniker": "Lista5_Classes\\Program.cs",
@@ -172,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista4_For\\Program.cs",
               "RelativeDocumentMoniker": "Lista4_For\\Program.cs",
@@ -190,14 +190,12 @@
               "RelativeDocumentMoniker": "Lista3_While\\Program.cs",
               "ToolTip": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista3_While\\Program.cs",
               "RelativeToolTip": "Lista3_While\\Program.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T14:10:04.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T14:10:04.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista2\\Program.cs",
               "RelativeDocumentMoniker": "Lista2\\Program.cs",
@@ -209,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Estudantes.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\FixacaoVetores\\Estudantes.cs",
               "RelativeDocumentMoniker": "FixacaoVetores\\Estudantes.cs",
@@ -221,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\FixacaoVetores\\Program.cs",
               "RelativeDocumentMoniker": "FixacaoVetores\\Program.cs",
@@ -245,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Banco.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\FixacaoConstrutores\\Banco.cs",
               "RelativeDocumentMoniker": "FixacaoConstrutores\\Banco.cs",
@@ -257,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\FixacaoConstrutores\\Program.cs",
               "RelativeDocumentMoniker": "FixacaoConstrutores\\Program.cs",
@@ -269,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\ExerciciosFixacaoClasses\\Funcionario.cs",
               "RelativeDocumentMoniker": "ExerciciosFixacaoClasses\\Funcionario.cs",
@@ -281,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\ExerciciosFixacaoClasses\\Aluno.cs",
               "RelativeDocumentMoniker": "ExerciciosFixacaoClasses\\Aluno.cs",
@@ -293,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\ExerciciosFixacaoClasses\\Program.cs",
               "RelativeDocumentMoniker": "ExerciciosFixacaoClasses\\Program.cs",
@@ -305,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Retangulo.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\ExerciciosFixacaoClasses\\Retangulo.cs",
               "RelativeDocumentMoniker": "ExerciciosFixacaoClasses\\Retangulo.cs",
@@ -317,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\ExerciciosExtrasClasses\\Produto.cs",
               "RelativeDocumentMoniker": "ExerciciosExtrasClasses\\Produto.cs",
@@ -329,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\ExerciciosExtrasClasses\\Program.cs",
               "RelativeDocumentMoniker": "ExerciciosExtrasClasses\\Program.cs",
@@ -341,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1149\\Program.cs",
               "RelativeDocumentMoniker": "I1149\\Program.cs",
@@ -365,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1145\\Program.cs",
               "RelativeDocumentMoniker": "I1145\\Program.cs",
@@ -377,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1146\\Program.cs",
               "RelativeDocumentMoniker": "I1146\\Program.cs",
@@ -389,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1143\\Program.cs",
               "RelativeDocumentMoniker": "I1143\\Program.cs",
@@ -401,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1142\\Program.cs",
               "RelativeDocumentMoniker": "I1142\\Program.cs",
@@ -413,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1134\\Program.cs",
               "RelativeDocumentMoniker": "I1134\\Program.cs",
@@ -425,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1133\\Program.cs",
               "RelativeDocumentMoniker": "I1133\\Program.cs",
@@ -437,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1132\\Program.cs",
               "RelativeDocumentMoniker": "I1132\\Program.cs",
@@ -449,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1131\\Program.cs",
               "RelativeDocumentMoniker": "I1131\\Program.cs",
@@ -461,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\I1118\\Program.cs",
               "RelativeDocumentMoniker": "I1118\\Program.cs",
@@ -473,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 2,
               "Title": "Estudantes.cs",
               "DocumentMoniker": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\CursoUdemy\\Estudantes.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\CursoUdemy\\Estudantes.cs",
@@ -485,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\CursoUdemy\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Arthur.medeiros\\source\\repos\\EstudosEExercicios\\CursoUdemy\\Program.cs",
