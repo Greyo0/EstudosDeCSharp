@@ -7,7 +7,6 @@ public class Program
     {
         
         int n = int.Parse(Console.ReadLine());
-        int start = 0;
         int[] vet = new int[n];
 
         vet[0] = 0;
