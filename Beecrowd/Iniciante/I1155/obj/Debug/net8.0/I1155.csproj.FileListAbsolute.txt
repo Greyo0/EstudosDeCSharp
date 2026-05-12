@@ -1,0 +1,15 @@
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\Iniciante\I1155\bin\Debug\net8.0\I1155.exe
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\Iniciante\I1155\bin\Debug\net8.0\I1155.deps.json
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\Iniciante\I1155\bin\Debug\net8.0\I1155.runtimeconfig.json
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\Iniciante\I1155\bin\Debug\net8.0\I1155.dll
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\Iniciante\I1155\bin\Debug\net8.0\I1155.pdb
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\Iniciante\I1155\obj\Debug\net8.0\I1155.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\Iniciante\I1155\obj\Debug\net8.0\I1155.AssemblyInfoInputs.cache
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\Iniciante\I1155\obj\Debug\net8.0\I1155.AssemblyInfo.cs
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\Iniciante\I1155\obj\Debug\net8.0\I1155.csproj.CoreCompileInputs.cache
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\Iniciante\I1155\obj\Debug\net8.0\I1155.sourcelink.json
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\Iniciante\I1155\obj\Debug\net8.0\I1155.dll
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\Iniciante\I1155\obj\Debug\net8.0\refint\I1155.dll
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\Iniciante\I1155\obj\Debug\net8.0\I1155.pdb
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\Iniciante\I1155\obj\Debug\net8.0\I1155.genruntimeconfig.cache
+C:\Users\Arthur.medeiros\source\repos\EstudosEExercicios\Beecrowd\Iniciante\I1155\obj\Debug\net8.0\ref\I1155.dll
