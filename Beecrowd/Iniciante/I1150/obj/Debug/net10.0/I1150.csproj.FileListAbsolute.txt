@@ -1,0 +1,15 @@
+C:\Users\Cliente\source\repos\Exercicios\Beecrowd\Iniciante\I1150\bin\Debug\net10.0\I1150.exe
+C:\Users\Cliente\source\repos\Exercicios\Beecrowd\Iniciante\I1150\bin\Debug\net10.0\I1150.deps.json
+C:\Users\Cliente\source\repos\Exercicios\Beecrowd\Iniciante\I1150\bin\Debug\net10.0\I1150.runtimeconfig.json
+C:\Users\Cliente\source\repos\Exercicios\Beecrowd\Iniciante\I1150\bin\Debug\net10.0\I1150.dll
+C:\Users\Cliente\source\repos\Exercicios\Beecrowd\Iniciante\I1150\bin\Debug\net10.0\I1150.pdb
+C:\Users\Cliente\source\repos\Exercicios\Beecrowd\Iniciante\I1150\obj\Debug\net10.0\I1150.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\source\repos\Exercicios\Beecrowd\Iniciante\I1150\obj\Debug\net10.0\I1150.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\Exercicios\Beecrowd\Iniciante\I1150\obj\Debug\net10.0\I1150.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\Exercicios\Beecrowd\Iniciante\I1150\obj\Debug\net10.0\I1150.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\Exercicios\Beecrowd\Iniciante\I1150\obj\Debug\net10.0\I1150.sourcelink.json
+C:\Users\Cliente\source\repos\Exercicios\Beecrowd\Iniciante\I1150\obj\Debug\net10.0\I1150.dll
+C:\Users\Cliente\source\repos\Exercicios\Beecrowd\Iniciante\I1150\obj\Debug\net10.0\refint\I1150.dll
+C:\Users\Cliente\source\repos\Exercicios\Beecrowd\Iniciante\I1150\obj\Debug\net10.0\I1150.pdb
+C:\Users\Cliente\source\repos\Exercicios\Beecrowd\Iniciante\I1150\obj\Debug\net10.0\I1150.genruntimeconfig.cache
+C:\Users\Cliente\source\repos\Exercicios\Beecrowd\Iniciante\I1150\obj\Debug\net10.0\ref\I1150.dll
