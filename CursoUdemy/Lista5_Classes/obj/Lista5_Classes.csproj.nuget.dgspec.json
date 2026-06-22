@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista5_Classes\\Lista5_Classes.csproj": {}
+    "C:\\Users\\Cliente\\Documents\\EstudosDeCS\\Exercicios\\CursoUdemy\\Lista5_Classes\\Lista5_Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista5_Classes\\Lista5_Classes.csproj": {
+    "C:\\Users\\Cliente\\Documents\\EstudosDeCS\\Exercicios\\CursoUdemy\\Lista5_Classes\\Lista5_Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista5_Classes\\Lista5_Classes.csproj",
+        "projectUniqueName": "C:\\Users\\Cliente\\Documents\\EstudosDeCS\\Exercicios\\CursoUdemy\\Lista5_Classes\\Lista5_Classes.csproj",
         "projectName": "Lista5_Classes",
-        "projectPath": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista5_Classes\\Lista5_Classes.csproj",
+        "projectPath": "C:\\Users\\Cliente\\Documents\\EstudosDeCS\\Exercicios\\CursoUdemy\\Lista5_Classes\\Lista5_Classes.csproj",
         "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cliente\\source\\repos\\Exercicios\\Lista5_Classes\\obj\\",
+        "outputPath": "C:\\Users\\Cliente\\Documents\\EstudosDeCS\\Exercicios\\CursoUdemy\\Lista5_Classes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -48,6 +49,7 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -65,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
